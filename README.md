@@ -45,4 +45,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Feel free to let me know if you need any further adjustments!
+Feel free to use it and make changes!
