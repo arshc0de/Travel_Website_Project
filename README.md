@@ -1,12 +1,13 @@
 World Travel:
 
-```markdown
+---
+
 # Travel Website Project
 
-This is a basic website built using HTML, CSS, and JavaScript. It is designed for a travel agency and includes various pages such as home, explore, login, and pricing.
+This project is a basic website built using **HTML**, **CSS**, and **JavaScript**. It is designed for a travel agency and includes various pages such as home, explore, login, and pricing.
 
-<br>
-<img src="https://raw.githubusercontent.com/arshc0de/Travel_Website_Project/main/preview/travel.png">
+![Project Preview](https://raw.githubusercontent.com/arshc0de/Travel_Website_Project/main/preview/travel.png)
+
 ## Features
 
 - **Home Page**: Introduction to the travel agency.
@@ -25,10 +26,10 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 
-1. Clone the repo:
-   ```sh
-   git clone https://github.com/arshc0de/Travel_Website_Project.git
-   ```
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/arshc0de/Travel_Website_Project.git
+    ```
 2. Open the project in your code editor.
 3. Open `index.html` in your web browser to view the website.
 
@@ -41,6 +42,7 @@ Your challenge is to make this website responsive. Ensure that it looks good on 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-```
 
-Feel free to modify it as needed! If you have any other requests or need further assistance, just let me know.
+---
+
+Feel free to let me know if you need any further adjustments!
